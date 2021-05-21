@@ -118,7 +118,15 @@ module.exports = {
               'node/hardware',
               'node/geth-pruning',
               'node/securing-your-node',
-              'node/node-operator-responsibilities'
+              'node/overview',
+              'node/local-node-setup',
+              'node/vps-setup',
+              'node/raspberry-pi-setup',
+              'node/install-and-configure',
+              'node/using-the-cli',
+              'node/validator-creation',
+              'node/monitoring-and-maintenance',
+              'node/troubleshooting'
           ]
         }
       ],
